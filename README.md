@@ -6,3 +6,5 @@ Pelo visto não decidi se escrevi isso em inglês ou português. Enfim. Esse pro
 Contando com as duas luzes amarelas, um para cada semáforo de tráfego, há ao todo 30 luzes. Como o Arduino Uno não possui essa quantidade de portas foi necessário usar CIs chamados registradores de deslocamento (74HC595). "pinclock", "pindata" e "pinlatch" no códido representam a manipulação desses CIs.
 
 Esse foi o primeiro código que escrevi na minha vida. Aprendi como programar na linguagem do Arduino (baseada em C++) somente por meio de vídeos já que a única coisa que o nosso professor ensinou foi fazer um led piscar.
+
+No repositório tem o código em si (semaforo.cpp) e uma prévia do projeto feito no simulador Proteus (semaforo_proteus.jpg). No futuro irei adicionar o arquivo da simulação.
